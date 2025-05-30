@@ -9,6 +9,7 @@
 </ul>
 <h2>How to play Fall Flat Battle Unblocked</h2>
 <h3>Play&nbsp;Fall Flat Battle Unblocked at:&nbsp;<a href="https://fallflatbattle.github.io">https://fallflatbattle.github.io</a></h3>
+<img src="https://github.com/fallflatbattle/fall-flat-battle/blob/main/Fall-Flat-Battle-game.png?raw=true">
 <h2>How to play Fall Flat Battle for beginners</h2>
 <ul>
 <li>Movement: Use <strong>WASD</strong> or the arrow keys to control the character through the surprising maps.</li>
